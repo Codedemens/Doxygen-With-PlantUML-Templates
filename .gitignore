@@ -1,5 +1,6 @@
 #makefile
 Makefile
+src/Makefile
 
 #vim
 *.swp
