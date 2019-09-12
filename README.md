@@ -1,2 +1,4 @@
-# Doxygen-With-PlantUML-Templates
-Have a very documented and documented day.
+# Doxygen With PlantUML Templates
+This repository contains updated doxygen with plantuml scripts to generate full documentation of c++ software projects.
+
+
