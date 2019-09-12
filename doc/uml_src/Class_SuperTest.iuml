@@ -1,0 +1,13 @@
+@startuml
+
+class SingletonTest {
+    -Test()
+    +~Test()
+    +static std::shared_ptr<SingletonTest>& GetInstance();
+}
+
+class SomeDataClass {
+     
+}
+
+@enduml

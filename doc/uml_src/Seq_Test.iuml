@@ -1,0 +1,6 @@
+@startuml
+
+Dawid -> Andrzej : Hello
+Dawid <- Andrzej : Witam
+
+@enduml

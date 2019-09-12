@@ -1,0 +1,13 @@
+
+
+@startuml
+
+scale 0.85
+set namespaceSeparator ::
+
+!include Class_Test.iuml
+
+SingletonTest --|> SomeDataClass
+
+@enduml
+

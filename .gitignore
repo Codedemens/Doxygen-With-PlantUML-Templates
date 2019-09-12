@@ -1,0 +1,24 @@
+#makefile
+Makefile
+
+#vim
+*.swp
+
+#output
+bin/
+
+#cmake related
+compile_options.json
+src/cmake_install.cmake
+src/CMakeFiles
+src/CMakeCache.txt
+src/compile_options.json
+cmake_install.cmake
+CMakeFiles/
+CMakeCache.txt
+
+#doc
+doc/html/
+doc/latex/
+doc/uml/
+
